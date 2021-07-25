@@ -6,19 +6,19 @@
         "name": "example1",
         "start": 1832,
         "end": 1945,
-        "event_count": 31
+        "eventCount": 31
       },
       {
         "name": "example2",
         "start": 1947,
         "end": 2021,
-        "event_count": 42
+        "eventCount": 42
       },
       {
         "name": "example3",
         "start": 1902,
         "end": 1911,
-        "event_count": 20
+        "eventCount": 20
       }
     ]
   }
