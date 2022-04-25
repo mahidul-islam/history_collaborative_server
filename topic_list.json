@@ -1,67 +1,81 @@
 [
 	{
-		"start": 570,
-		"end": 630,
-		"label": "Era of Muhammad ﷺ",
+		"start": -2150,
+		"end": -1975,
+		"label": "ইব্রাহীম (আঃ) এর সময়কাল*"
+	},
+	{
+		"start": -1400,
+		"end": -1301,
+		"label": "মূসা (আঃ) এর সময়কাল*"
+	},
+	{
+		"start": -4,
+		"end": 33,
+		"label": "ঈসা (আঃ) এর সময়কাল"
+	},
+	{
+		"start": 571,
+		"end": 632,
+		"label": "মুহাম্মদ ﷺ এর জীবন",
 		"asset": 
 		{
-			"source": "earth.jpg",
+			"source": "sirah.jpg",
 			"width": 800,
 			"height": 800
 		}
 	},
 	{
-		"date": 571,
-		"label": "Life on Earth",
-		"asset": 
-		{
-			"source": "sloth.jpg",
-			"width": 800,
-			"height": 589
-		}
+		"date": 571.1,
+		"label": "মুহাম্মদ ﷺ এর জন্ম"
 	},
 	{
-		"date": 572,
-		"label": "Eukaryotes Evolved",
-		"asset": 
-		{
-			"source": "little-dino.jpg",
-			"width": 800,
-			"height": 528
-		}
+		"start": 571.2,
+		"end": 577,
+		"label": "দুধমা হালীমার ঘরে"
 	},
 	{
-		"date": 572,
-		"end": -1200000000,
-		"label": "Lots in here",
-		"asset": 
-		{
-			"source": "sloth.jpg",
-			"width": 800,
-			"height": 589
-		}
+		"start": 571.3,
+		"end": 573,
+		"label": "মা হালীমার দুধপান"
 	},
 	{
-		"date": 573,
-		"label": "Wow"
+		"start": 575,
+		"end": 576,
+		"label": "বক্ষ বিদারণ"
 	},
 	{
-		"date": 582,
-		"label": "Hello",
-		"asset": 
-		{
-			"source": "dino.jpg",
-			"width": 800,
-			"height": 600
-		}
+		"date": 577,
+		"label": "মা আমিনার মৃত্যু"
 	},
 	{
-		"date": 585,
-		"label": "Stuff here"
+		"date": 579,
+		"label": "দাদা আব্দুল মুত্তালিবের মৃত্যু"
 	},
 	{
-		"date": 587,
-		"label": "Extra Stuff"
+		"date": 583,
+		"label": "ধর্মযাজক বাহীরা"
+	},
+	{
+		"start": 586,
+		"end": 589,
+		"label": "ফিজার যুদ্ধ*"
+	},
+	{
+		"date": 590,
+		"label": "হিলফুল ফুযূল"
+	},
+	{
+		"date": 594,
+		"label": "ব্যবসার উদ্দেশ্যে সিরিয়া যাত্রা"
+	},
+	{
+		"date": 596,
+		"label": "খাদীজাহ (রাঃ) এর সঙ্গে বিবাহ"
+	},
+	{
+		"date": 598,
+		"label": "নবিজির প্রথম সন্তান"
 	},
 	{
 		"date": 587.5,
@@ -74,34 +88,8 @@
 		}
 	},
 	{
-		"date": 590,
-		"label": "Testing More"
-	},
-	{
-		"date": 595,
-		"label": "Aaaaand one More"
-	},
-	{
-		"date": 610,
-		"label": "বাংলা লোডিং ফাইন"
-	},
-	{
-		"date": 611,
-		"label": "First arthropods evolve"
-	},
-	{
-		"start": 612,
-		"end": 613,
-		"label": "Mesozoic Era"
-	},
-	{
-		"start": 618,
-		"end": 620,
-		"label": "Jurassic Period"
-	},
-	{
-		"start": 630,
+		"start": 632.1,
 		"end": 670,
-		"label": "Khelafat ERA"
+		"label": "খেলাফত আমল"
 	}
 ]
