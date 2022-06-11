@@ -74,37 +74,45 @@
 	},
 	{
 		"date": 583,
-		"label": "ধর্মযাজক বাহীরা"
+		"label": "ধর্মযাজক বাহীরা",
+		"article": "bahira.txt"
 	},
 	{
 		"start": 586,
 		"end": 589,
-		"label": "ফিজার যুদ্ধ"
+		"label": "ফিজার যুদ্ধ",
+		"article": "fizar.txt"
 	},
 	{
 		"date": 590,
-		"label": "হিলফুল ফুযূল"
+		"label": "হিলফুল ফুযূল",
+		"article": "fuzul.txt"
 	},
 	{
 		"date": 594,
-		"label": "ব্যবসার উদ্দেশ্যে সিরিয়া যাত্রা"
+		"label": "ব্যবসার উদ্দেশ্যে সিরিয়া যাত্রা",
+		"article": "siria.txt"
 	},
 	{
 		"date": 596,
-		"label": "খাদীজাহ (রাঃ) এর সঙ্গে বিবাহ"
+		"label": "খাদীজাহ (রাঃ) এর সঙ্গে বিবাহ",
+		"article": "prothom.txt"
 	},
 	{
 		"date": 598,
-		"label": "নবিজির প্রথম সন্তান"
+		"label": "নবিজির প্রথম সন্তান",
+		"article": "putro.txt"
 	},
 	{
 		"date": 605,
-		"label": "কাবা ঘরের পুন নির্মাণ"
+		"label": "কাবা ঘরের পুন নির্মাণ",
+		"article": "kaba.txt"
 	},
 	{
 		"start": 610.1,
 		"end": 610.8,
-		"label": "হেরায় নির্জনবাস"
+		"label": "হেরায় নির্জনবাস",
+		"article": "hera.txt"
 	},
 	{
 		"start": 611,
