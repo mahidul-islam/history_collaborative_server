@@ -17,7 +17,8 @@
 	{
 		"start": 530,
 		"end": 540,
-		"label": "যমযম কূপ খনন"
+		"label": "যমযম কূপ খনন",
+		"article": "zamzam.txt"
 	},
 	{
 		"start": 570.5,
@@ -31,7 +32,8 @@
 	},
 	{
 		"date": 570.9,
-		"label": "পিতা আব্দুল্লাহর মৃত্যু"
+		"label": "পিতা আব্দুল্লাহর মৃত্যু",
+		"article": "abdullah.txt"
 	},
 	{
 		"date": 571.1,
@@ -45,25 +47,30 @@
 	{
 		"start": 571.6,
 		"end": 577,
-		"label": "দুধমা হালীমার ঘরে"
+		"label": "দুধমা হালীমার ঘরে",
+		"article": "halima.txt"
 	},
 	{
 		"start": 571.7,
 		"end": 573.7,
-		"label": "মা হালীমার দুধপান"
+		"label": "মা হালীমার দুধপান",
+		"article": "dudhpan.txt"
 	},
 	{
 		"start": 575,
 		"end": 576,
-		"label": "বক্ষ বিদারণ"
+		"label": "বক্ষ বিদারণ",
+		"article": "bokkho.txt"
 	},
 	{
 		"date": 577,
-		"label": "মা আমিনার মৃত্যু"
+		"label": "মা আমিনার মৃত্যু",
+		"article": "amina.txt"
 	},
 	{
 		"date": 579,
-		"label": "দাদা আব্দুল মুত্তালিবের মৃত্যু"
+		"label": "দাদা আব্দুল মুত্তালিবের মৃত্যু",
+		"article": "dada.txt"
 	},
 	{
 		"date": 583,
