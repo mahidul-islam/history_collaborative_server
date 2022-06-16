@@ -144,7 +144,7 @@
 		"start": 613.2,
 		"end": 613.8,
 		"label": "বনু হাসিম গোত্রকে দাওয়াত",
-		"article": "bonuhashim.txt"
+		"article": "bonu_hashim.txt"
 	},
 	{
 		"date": 614,
@@ -209,69 +209,90 @@
 	},
 	{
 		"date": 620.3,
-		"label": "মিরাজে গমন"
+		"label": "মিরাজে গমন",
+		"article": "miraj.txt"
 	},
 	{
-		"date": 621,
-		"label": "আক্বাবার প্রথম বায়আত"
+		"date": 621.4,
+		"label": "আক্বাবার প্রথম বায়আত",
+		"article": "aqaba1.txt"
 	},
 	{
-		"date": 622,
-		"label": "আক্বাবার দ্বিতীয় বায়আত"
+		"start": 621.7,
+		"end": 622.4,
+		"label": "মদিনায় দাওয়াতি কাজ",
+		"article": "musab.txt"
 	},
 	{
-		"start": 622.1,
+		"date": 622.5,
+		"label": "আক্বাবার দ্বিতীয় বায়আত",
+		"article": "aqaba2.txt"
+	},
+	{
+		"start": 622.5,
 		"end": 632.61,
 		"label": "মাদানি জীবন"
 	},
 	{
-		"date": 622.2,
-		"label": "মদিনায় হিজরত"
+		"date": 622.6,
+		"label": "মদিনায় হিজরত",
+		"article": "hijrat.txt"
 	},
 	{
-		"date": 622.3,
-		"label": "মসজিদে নববি প্রতিষ্ঠা"
+		"date": 622.7,
+		"label": "মসজিদে নববি প্রতিষ্ঠা",
+		"article": "nababi_mosq.txt"
 	},
 	{
-		"date": 622.4,
-		"label": "মদিনা সনদ"
+		"date": 622.8,
+		"label": "মদিনা সনদ",
+		"article": "sanad.txt"
 	},
 	{
 		"start": 623,
 		"end": 624.2,
-		"label": "ছোট আকারে যুদ্ধসমূহ"
+		"label": "ছোট আকারে যুদ্ধসমূহ",
+		"article": "choto.txt"
 	},
 	{
 		"date": 623.2,
-		"label": "সারিয়্যাতু সীফিল বাহর"
+		"label": "সারিয়্যাতু সীফিল বাহর",
+		"article": "choto1.txt"
 	},
 	{
 		"date": 623.3,
-		"label": " সারিয়্যাতু রাবিগ"
+		"label": " সারিয়্যাতু রাবিগ",
+		"article": "choto2.txt"
 	},
 	{
 		"date": 623.4,
-		"label": "সারীয়্যায়ে খার্রার"
+		"label": "সারীয়্যায়ে খার্রার",
+		"article": "choto3.txt"
 	},
 	{
 		"date": 623.7,
-		"label": "গাযওয়ায়ে আবওয়া"
+		"label": "গাযওয়ায়ে আবওয়া",
+		"article": "choto4.txt"
 	},
 	{
 		"date": 623.8,
-		"label": "গাযওয়ায়ে বুওয়াত"
+		"label": "গাযওয়ায়ে বুওয়াত",
+		"article": "choto5.txt"
 	},
 	{
 		"date": 623.9,
-		"label": "গাযওয়ায়ে সাফওয়ান"
+		"label": "গাযওয়ায়ে সাফওয়ান",
+		"article": "choto6.txt"
 	},
 	{
 		"date": 624,
-		"label": "গাযওয়ায়ে যিল উশাইরাহ"
+		"label": "গাযওয়ায়ে যিল উশাইরাহ",
+		"article": "choto7.txt"
 	},
 	{
 		"date": 624.1,
-		"label": "নাখলাহ অভিযান"
+		"label": "নাখলাহ অভিযান",
+		"article": "choto8.txt"
 	},
 	{
 		"date": 624.3,
