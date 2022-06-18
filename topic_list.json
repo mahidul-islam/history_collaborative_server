@@ -296,109 +296,150 @@
 	},
 	{
 		"date": 624.3,
-		"label": "বদরের যুদ্ধ"
+		"label": "বদরের যুদ্ধ",
+		"article": "bodor.txt"
 	},
 	{
 		"start": 624.5,
 		"end": 625.2,
-		"label": "বদর ও উহুদের মাঝে যুদ্ধসমূহ"
+		"label": "বদর ও উহুদের মাঝে যুদ্ধসমূহ",
+		"article": "majher.txt"
 	},
 	{
 		"date": 624.55,
-		"label": "গাযওয়ায়ে বনী সুলাইমে"
+		"label": "গাযওয়ায়ে বনী সুলাইমে",
+		"article": "sulaim.txt"
 	},
 	{
 		"date": 624.6,
-		"label": "গাযওয়ায়ে বনী ক্বাইনুক্কা"
+		"label": "উমায়ের (রাঃ) এর ঘটনা",
+		"article": "umayer.txt"
 	},
 	{
 		"date": 624.7,
-		"label": "গাযওয়ায়ে সাভীক"
+		"label": "গাযওয়ায়ে বনী ক্বাইনুক্কা",
+		"article": "qainuka.txt"
+	},
+	{
+		"date": 624.8,
+		"label": "গাযওয়ায়ে সাভীক",
+		"article": "savik.txt"
 	},
 	{
 		"date": 624.9,
-		"label": "গোস্তাখে রাসুল (কা‘ব ইবনু আশরাফ)"
+		"label": "গাযওয়ায়ে যূ ‘আমর",
+		"article": "zuamar.txt"
 	},
 	{
 		"date": 625,
-		"label": "গাযওয়ায়ে যূ ‘আমর"
+		"label": "গোস্তাখে রাসুল (কা‘ব ইবনু আশরাফ)",
+		"article": "kab.txt"
 	},
 	{
 		"date": 625.1,
-		"label": "গাযওয়ায়ে বাহরান"
+		"label": "গাযওয়ায়ে বাহরান",
+		"article": "bahran.txt"
 	},
 	{
 		"date": 625.15,
-		"label": "সারিয়্যাতু যায়দ ইবনু হারিসা"
+		"label": "সারিয়্যাতু যায়দ ইবনু হারিসা",
+		"article": "harisa.txt"
 	},
 	{
 		"date": 625.4,
-		"label": "উহুদের যুদ্ধ "
+		"label": "উহুদের যুদ্ধ ",
+		"article": "uhud.txt"
 	},
 	{
 		"date": 625.6,
-		"label": "আবু সালামা (রাঃ) এর অভিযান"
+		"label": "আবু সালামা (রাঃ) এর অভিযান",
+		"article": "salama.txt"
 	},
 	{
 		"date": 625.65,
-		"label": "আব্দুল্লাহ বিন উনাইস (রাঃ) এর অভিযান"
+		"label": "আব্দুল্লাহ বিন উনাইস (রাঃ) এর অভিযান",
+		"article": "unais.txt"
 	},
 	{
 		"date": 625.7,
-		"label": "রাযীর ঘটনা "
+		"label": "রাযীর ঘটনা ",
+		"article": "raji.txt"
 	},
 	{
 		"date": 625.75,
-		"label": "বীরে মাউনার ঘটনা"
+		"label": "বীরে মাউনার ঘটনা",
+		"article": "mauna.txt"
 	},
 	{
 		"date": 625.8,
-		"label": "বনু নযীর এর ঘটনা "
+		"label": "বনু নযীর এর ঘটনা ",
+		"article": "nojir.txt"
 	},
 	{
 		"date": 625.85,
-		"label": "নাজদ যুদ্ধ"
+		"label": "নাজদ যুদ্ধ",
+		"article": "najd.txt"
 	},
 	{
 		"date": 626,
-		"label": "২য় বদর যুদ্ধ"
+		"label": "২য় বদর যুদ্ধ",
+		"article": "bodor2.txt"
 	},
 	{
 		"date": 626.5,
-		"label": "গাযওয়ায়ে দুমাতুল জানদাল"
+		"label": "গাযওয়ায়ে দুমাতুল জানদাল",
+		"article": "jandal.txt"
 	},
 	{
 		"date": 627,
-		"label": "খন্দকের যুদ্ধ "
+		"label": "খন্দকের যুদ্ধ ",
+		"article": "khandak.txt"
 	},
 	{
 		"date": 627.1,
-		"label": "বনু কুরাইযাহর যুদ্ধ"
+		"label": "বনু কুরাইযাহর যুদ্ধ",
+		"article": "sltr.txt"
 	},
 	{
 		"date": 627.4,
-		"label": "গোস্তাখে রাসুল (সালাম বিন আবিল হুক্বাইক্ব)"
+		"label": "গোস্তাখে রাসুল (সালাম বিন আবিল হুক্বাইক্ব)",
+		"article": "huqaik.txt"
 	},
 	{
 		"date": 627.6,
-		"label": "মুহাম্মাদ বিন মাসলামাহ’র অভিযান"
+		"label": "মুহাম্মাদ বিন মাসলামাহ’র অভিযান",
+		"article": "mslmh.txt"
 	},
 	{
 		"date": 627.7,
-		"label": "বনু লাহইয়ান যুদ্ধ"
+		"label": "বনু লাহইয়ান যুদ্ধ",
+		"article": "lahyan.txt"
 	},
 	{
 		"start": 627.8,
-		"end": 628.2,
-		"label": "বিভিন্ন ছোট যুদ্ধ (১৩টি)"
+		"end": 628.15,
+		"label": "বিভিন্ন ছোট যুদ্ধ (১৩টি)",
+		"article": "sm13.txt"
+	},
+	{
+		"date": 628.25,
+		"label": "কিছু বিশেষ ঘটনা",
+		"article": "ghotona.txt"
 	},
 	{
 		"date": 628.3,
-		"label": "হজ্ব যাত্রা "
+		"label": "হজ্ব যাত্রা ",
+		"article": "hajj.txt"
+	},
+	{
+		"date": 628.35,
+		"label": "উসমান\u001b(রাঃ) এর ঘটনা",
+		"article": "usmn.txt"
 	},
 	{
 		"date": 628.4,
-		"label": "হুদাইবিয়ার সন্ধি"
+		"label": "হুদাইবিয়ার সন্ধি",
+		"article": "hudaibiya.txt"
 	},
 	{
 		"date": 628.5,
