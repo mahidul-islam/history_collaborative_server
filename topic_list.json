@@ -443,46 +443,66 @@
 	},
 	{
 		"date": 628.5,
-		"label": "রাজা বাদশাদের পত্র প্রেরণ (৭টি)"
+		"label": "রাজা বাদশাদের পত্র প্রেরণ (৮টি)",
+		"article": "potro.txt"
 	},
 	{
 		"date": 628.6,
-		"label": "যী কারাদ যুদ্ধ"
+		"label": "যী কারাদ যুদ্ধ (গাবা যুদ্ধ)",
+		"article": "gaba.txt"
 	},
 	{
 		"date": 628.7,
-		"label": "খায়বারের যুদ্ধ"
+		"label": "খায়বারের যুদ্ধ",
+		"article": "khaybar.txt"
 	},
 	{
 		"start": 628.8,
 		"end": 629,
-		"label": "বিভিন্ন ছোট যুদ্ধ (৯টি)"
+		"label": "বিভিন্ন ছোট যুদ্ধ (৯টি)",
+		"article": "sm9.txt"
 	},
 	{
 		"date": 629.3,
-		"label": "কাযা উমরা আদায়"
+		"label": "কাযা উমরা আদায়",
+		"article": "kaza.txt"
 	},
 	{
 		"start": 629.5,
 		"end": 629.7,
-		"label": "বিভিন্ন ছোট যুদ্ধ (৪টি)"
+		"label": "বিভিন্ন ছোট যুদ্ধ (৪টি)",
+		"article": "sm4.txt"
 	},
 	{
 		"date": 629.8,
-		"label": "মুতার যুদ্ধ "
+		"label": "মুতার যুদ্ধ ",
+		"article": "muta.txt"
 	},
 	{
 		"date": 630,
-		"label": "মক্কা বিজয় "
+		"label": "মক্কা বিজয় ",
+		"article": "fateh.txt"
+	},
+	{
+		"date": 630.1,
+		"label": "হুনাইন যুদ্ধ",
+		"article": "hunain.txt"
 	},
 	{
 		"date": 630.2,
-		"label": "হুনাইন যুদ্ধ"
+		"label": "ত্বায়িফ যুদ্ধ",
+		"article": "tawif.txt"
+	},
+	{
+		"date": 630.3,
+		"label": "বিভিন্ন গোত্রে যাকাতের কর্মী প্রেরণ",
+		"article": "zakat.txt"
 	},
 	{
 		"start": 630.4,
 		"end": 630.7,
-		"label": "বিভিন্ন ছোট যুদ্ধ (৫টি)"
+		"label": "বিভিন্ন ছোট যুদ্ধ (৫টি)",
+		"article": "sm5.txt"
 	},
 	{
 		"date": 630.8,
