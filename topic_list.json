@@ -150,19 +150,40 @@
 		"article": "bonu_hashim.txt"
 	},
 	{
-		"date": 614,
+		"date": 613.9,
 		"label": "সাফা পর্বতের উপর দাওয়াত",
 		"article": "safa.txt"
 	},
 	{
+		"date": 614,
+		"label": "রাসূলুল্লাহ ﷺ কে বুঝানো",
+		"article": "buj.txt"
+	},
+	{
+		"start": 614.1,
+		"end": 616.7,
+		"label": "প্রচণ্ড অত্যাচার",
+		"article": "most.txt"
+	},
+	{
 		"date": 614.2,
+		"label": "দারুল আরকাম",
+		"article": "arkam.txt"
+	},
+	{
+		"date": 614.25,
 		"label": "হজ্ব যাত্রীদের নিকট দাওয়াতে বাধা",
 		"article": "badha.txt"
 	},
 	{
-		"date": 614.5,
+		"date": 614.3,
 		"label": "আবিসিনিয়াতে প্রথম হিজরত",
 		"article": "abisinia.txt"
+	},
+	{
+		"date": 614.5,
+		"label": "কাফিরদের সিজদাহ",
+		"article": "sijdah.txt"
 	},
 	{
 		"date": 615,
@@ -170,14 +191,29 @@
 		"article": "abisinia2.txt"
 	},
 	{
-		"date": 616,
+		"date": 615.2,
+		"label": "আবিসিনিয়ায় ষড়যন্ত্র",
+		"article": "dorbar.txt"
+	},
+	{
+		"date": 616.5,
 		"label": "হামযা (রাঃ) এর ইসলাম গ্রহণ",
 		"article": "hamja.txt"
 	},
 	{
-		"date": 616.7,
+		"date": 616.6,
 		"label": "উমর (রাঃ) এর ইসলাম গ্রহণ",
 		"article": "omar.txt"
+	},
+	{
+		"date": 616.8,
+		"label": "রাসূলুল্লাহ ﷺ কে প্ৰরোচিত করা",
+		"article": "lov.txt"
+	},
+	{
+		"date": 616.9,
+		"label": "ইহুদী পণ্ডিতদের প্রশ্ন",
+		"article": "ques.txt"
 	},
 	{
 		"start": 617,
