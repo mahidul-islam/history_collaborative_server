@@ -25,27 +25,29 @@
    },
    {
       "article": "rasul.txt",
+      "asset": {
+         "height": 800.0,
+         "source": "sirah.jpg",
+         "width": 800.0
+      },
       "end": 632.63,
       "name": "মুহাম্মদ ﷺ এর জীবন",
       "start": 570.5
    },
    {
       "article": "abdullah.txt",
-      "end": null,
-      "name": "পিতা আব্দুল্লাহর মৃত্যু",
-      "start": null
+      "date": 570.9,
+      "name": "পিতা আব্দুল্লাহর মৃত্যু"
    },
    {
       "article": "abraha.txt",
-      "end": null,
-      "name": "হস্তী বাহিনীর ঘটনা",
-      "start": null
+      "date": 571.1,
+      "name": "হস্তী বাহিনীর ঘটনা"
    },
    {
       "article": "born.txt",
-      "end": null,
-      "name": "মুহাম্মদ ﷺ এর জন্ম",
-      "start": null
+      "date": 571.5,
+      "name": "মুহাম্মদ ﷺ এর জন্ম"
    },
    {
       "article": "halima.txt",
@@ -67,21 +69,18 @@
    },
    {
       "article": "amina.txt",
-      "end": null,
-      "name": "মা আমিনার মৃত্যু",
-      "start": null
+      "date": 577.0,
+      "name": "মা আমিনার মৃত্যু"
    },
    {
       "article": "dada.txt",
-      "end": null,
-      "name": "দাদা আব্দুল মুত্তালিবের মৃত্যু",
-      "start": null
+      "date": 579.0,
+      "name": "দাদা আব্দুল মুত্তালিবের মৃত্যু"
    },
    {
       "article": "bahira.txt",
-      "end": null,
-      "name": "ধর্মযাজক বাহীরা",
-      "start": null
+      "date": 583.0,
+      "name": "ধর্মযাজক বাহীরা"
    },
    {
       "article": "fizar.txt",
@@ -91,33 +90,28 @@
    },
    {
       "article": "fuzul.txt",
-      "end": null,
-      "name": "হিলফুল ফুযূল",
-      "start": null
+      "date": 590.0,
+      "name": "হিলফুল ফুযূল"
    },
    {
       "article": "siria.txt",
-      "end": null,
-      "name": "ব্যবসার উদ্দেশ্যে সিরিয়া যাত্রা",
-      "start": null
+      "date": 594.0,
+      "name": "ব্যবসার উদ্দেশ্যে সিরিয়া যাত্রা"
    },
    {
       "article": "prothom.txt",
-      "end": null,
-      "name": "খাদীজাহ (রাঃ) এর সঙ্গে বিবাহ",
-      "start": null
+      "date": 596.0,
+      "name": "খাদীজাহ (রাঃ) এর সঙ্গে বিবাহ"
    },
    {
       "article": "putro.txt",
-      "end": null,
-      "name": "নবিজির প্রথম সন্তান",
-      "start": null
+      "date": 598.0,
+      "name": "নবিজির প্রথম সন্তান"
    },
    {
       "article": "kaba.txt",
-      "end": null,
-      "name": "কাবা ঘরের পুন নির্মাণ",
-      "start": null
+      "date": 605.0,
+      "name": "কাবা ঘরের পুন নির্মাণ"
    },
    {
       "article": "hera.txt",
@@ -145,9 +139,8 @@
    },
    {
       "article": "prothom_muslim.txt",
-      "end": null,
-      "name": "প্রথম মুসলিম ",
-      "start": null
+      "date": 611.3,
+      "name": "প্রথম মুসলিম "
    },
    {
       "article": "open.txt",
@@ -163,15 +156,13 @@
    },
    {
       "article": "safa.txt",
-      "end": null,
-      "name": "সাফা পর্বতের উপর দাওয়াত",
-      "start": null
+      "date": 613.9,
+      "name": "সাফা পর্বতের উপর দাওয়াত"
    },
    {
       "article": "buj.txt",
-      "end": null,
-      "name": "রাসূলুল্লাহ ﷺ কে বুঝানো",
-      "start": null
+      "date": 614.0,
+      "name": "রাসূলুল্লাহ ﷺ কে বুঝানো"
    },
    {
       "article": "most.txt",
@@ -181,63 +172,53 @@
    },
    {
       "article": "arkam.txt",
-      "end": null,
-      "name": "দারুল আরকাম",
-      "start": null
+      "date": 614.2,
+      "name": "দারুল আরকাম"
    },
    {
       "article": "badha.txt",
-      "end": null,
-      "name": "হজ্ব যাত্রীদের নিকট দাওয়াতে বাধা",
-      "start": null
+      "date": 614.25,
+      "name": "হজ্ব যাত্রীদের নিকট দাওয়াতে বাধা"
    },
    {
       "article": "abisinia.txt",
-      "end": null,
-      "name": "আবিসিনিয়াতে প্রথম হিজরত",
-      "start": null
+      "date": 614.3,
+      "name": "আবিসিনিয়াতে প্রথম হিজরত"
    },
    {
       "article": "sijdah.txt",
-      "end": null,
-      "name": "কাফিরদের সিজদাহ",
-      "start": null
+      "date": 614.5,
+      "name": "কাফিরদের সিজদাহ"
    },
    {
       "article": "abisinia2.txt",
-      "end": null,
-      "name": "আবিসিনিয়াতে দ্বিতীয় হিজরত",
-      "start": null
+      "date": 615.0,
+      "name": "আবিসিনিয়াতে দ্বিতীয় হিজরত"
    },
    {
       "article": "dorbar.txt",
-      "end": null,
-      "name": "আবিসিনিয়ায় ষড়যন্ত্র",
-      "start": null
+      "date": 615.2,
+      "name": "আবিসিনিয়ায় ষড়যন্ত্র"
    },
    {
       "article": "hamja.txt",
-      "end": null,
-      "name": "হামযা (রাঃ) এর ইসলাম গ্রহণ",
-      "start": null
+      "date": 616.5,
+      "name": "হামযা (রাঃ) এর ইসলাম গ্রহণ"
    },
    {
       "article": "omar.txt",
-      "end": null,
-      "name": "উমর (রাঃ) এর ইসলাম গ্রহণ",
-      "start": null
+      "date": 616.6,
+      "name": "উমর (রাঃ) এর ইসলাম গ্রহণ"
    },
    {
       "article": "lov.txt",
-      "end": null,
-      "name": "রাসূলুল্লাহ ﷺ কে প্ৰরোচিত করা",
-      "start": null
+      "date": 616.8,
+      "name": "রাসূলুল্লাহ ﷺ কে প্ৰরোচিত করা"
    },
    {
       "article": "ques.txt",
-      "end": null,
-      "name": "ইহুদী পণ্ডিতদের প্রশ্ন",
-      "start": null
+      "date": 616.9,
+      "name": "ইহুদী পণ্ডিতদের প্রশ্ন"
    },
    {
       "article": "boycott.txt",
@@ -247,9 +228,8 @@
    },
    {
       "article": "done.txt",
-      "end": null,
-      "name": "বয়কট এর অবসান",
-      "start": null
+      "date": 618.8,
+      "name": "বয়কট এর অবসান"
    },
    {
       "article": null,
@@ -259,33 +239,28 @@
    },
    {
       "article": "talib.txt",
-      "end": null,
-      "name": "আবু তালিবের মৃত্যু",
-      "start": null
+      "date": 619.1,
+      "name": "আবু তালিবের মৃত্যু"
    },
    {
       "article": "khadija_ra.txt",
-      "end": null,
-      "name": "খাদিজা (রাঃ) এর মৃত্যু",
-      "start": null
+      "date": 619.7,
+      "name": "খাদিজা (রাঃ) এর মৃত্যু"
    },
    {
       "article": "tayef.txt",
-      "end": null,
-      "name": "তায়েফে হিজরত",
-      "start": null
+      "date": 619.9,
+      "name": "তায়েফে হিজরত"
    },
    {
       "article": "miraj.txt",
-      "end": null,
-      "name": "মিরাজে গমন",
-      "start": null
+      "date": 620.3,
+      "name": "মিরাজে গমন"
    },
    {
       "article": "aqaba1.txt",
-      "end": null,
-      "name": "আক্বাবার প্রথম বায়আত",
-      "start": null
+      "date": 621.4,
+      "name": "আক্বাবার প্রথম বায়আত"
    },
    {
       "article": "musab.txt",
@@ -295,9 +270,8 @@
    },
    {
       "article": "aqaba2.txt",
-      "end": null,
-      "name": "আক্বাবার দ্বিতীয় বায়আত",
-      "start": null
+      "date": 622.5,
+      "name": "আক্বাবার দ্বিতীয় বায়আত"
    },
    {
       "article": null,
@@ -307,21 +281,18 @@
    },
    {
       "article": "hijrat.txt",
-      "end": null,
-      "name": "মদিনায় হিজরত",
-      "start": null
+      "date": 622.6,
+      "name": "মদিনায় হিজরত"
    },
    {
       "article": "nababi_mosq.txt",
-      "end": null,
-      "name": "মসজিদে নববি প্রতিষ্ঠা",
-      "start": null
+      "date": 622.7,
+      "name": "মসজিদে নববি প্রতিষ্ঠা"
    },
    {
       "article": "sanad.txt",
-      "end": null,
-      "name": "মদিনা সনদ",
-      "start": null
+      "date": 622.8,
+      "name": "মদিনা সনদ"
    },
    {
       "article": "choto.txt",
@@ -331,57 +302,48 @@
    },
    {
       "article": "choto1.txt",
-      "end": null,
-      "name": "সারিয়্যাতু সীফিল বাহর",
-      "start": null
+      "date": 623.2,
+      "name": "সারিয়্যাতু সীফিল বাহর"
    },
    {
       "article": "choto2.txt",
-      "end": null,
-      "name": " সারিয়্যাতু রাবিগ",
-      "start": null
+      "date": 623.3,
+      "name": " সারিয়্যাতু রাবিগ"
    },
    {
       "article": "choto3.txt",
-      "end": null,
-      "name": "সারীয়্যায়ে খার্রার",
-      "start": null
+      "date": 623.4,
+      "name": "সারীয়্যায়ে খার্রার"
    },
    {
       "article": "choto4.txt",
-      "end": null,
-      "name": "গাযওয়ায়ে আবওয়া",
-      "start": null
+      "date": 623.7,
+      "name": "গাযওয়ায়ে আবওয়া"
    },
    {
       "article": "choto5.txt",
-      "end": null,
-      "name": "গাযওয়ায়ে বুওয়াত",
-      "start": null
+      "date": 623.8,
+      "name": "গাযওয়ায়ে বুওয়াত"
    },
    {
       "article": "choto6.txt",
-      "end": null,
-      "name": "গাযওয়ায়ে সাফওয়ান",
-      "start": null
+      "date": 623.9,
+      "name": "গাযওয়ায়ে সাফওয়ান"
    },
    {
       "article": "choto7.txt",
-      "end": null,
-      "name": "গাযওয়ায়ে যিল উশাইরাহ",
-      "start": null
+      "date": 624.0,
+      "name": "গাযওয়ায়ে যিল উশাইরাহ"
    },
    {
       "article": "choto8.txt",
-      "end": null,
-      "name": "নাখলাহ অভিযান",
-      "start": null
+      "date": 624.1,
+      "name": "নাখলাহ অভিযান"
    },
    {
       "article": "bodor.txt",
-      "end": null,
-      "name": "বদরের যুদ্ধ",
-      "start": null
+      "date": 624.3,
+      "name": "বদরের যুদ্ধ"
    },
    {
       "article": "majher.txt",
@@ -391,135 +353,113 @@
    },
    {
       "article": "sulaim.txt",
-      "end": null,
-      "name": "গাযওয়ায়ে বনী সুলাইমে",
-      "start": null
+      "date": 624.55,
+      "name": "গাযওয়ায়ে বনী সুলাইমে"
    },
    {
       "article": "umayer.txt",
-      "end": null,
-      "name": "উমায়ের (রাঃ) এর ঘটনা",
-      "start": null
+      "date": 624.6,
+      "name": "উমায়ের (রাঃ) এর ঘটনা"
    },
    {
       "article": "qainuka.txt",
-      "end": null,
-      "name": "গাযওয়ায়ে বনী ক্বাইনুক্কা",
-      "start": null
+      "date": 624.7,
+      "name": "গাযওয়ায়ে বনী ক্বাইনুক্কা"
    },
    {
       "article": "savik.txt",
-      "end": null,
-      "name": "গাযওয়ায়ে সাভীক",
-      "start": null
+      "date": 624.8,
+      "name": "গাযওয়ায়ে সাভীক"
    },
    {
       "article": "zuamar.txt",
-      "end": null,
-      "name": "গাযওয়ায়ে যূ ‘আমর",
-      "start": null
+      "date": 624.9,
+      "name": "গাযওয়ায়ে যূ ‘আমর"
    },
    {
       "article": "kab.txt",
-      "end": null,
-      "name": "গোস্তাখে রাসুল (কা‘ব ইবনু আশরাফ)",
-      "start": null
+      "date": 625.0,
+      "name": "গোস্তাখে রাসুল (কা‘ব ইবনু আশরাফ)"
    },
    {
       "article": "bahran.txt",
-      "end": null,
-      "name": "গাযওয়ায়ে বাহরান",
-      "start": null
+      "date": 625.1,
+      "name": "গাযওয়ায়ে বাহরান"
    },
    {
       "article": "harisa.txt",
-      "end": null,
-      "name": "সারিয়্যাতু যায়দ ইবনু হারিসা",
-      "start": null
+      "date": 625.15,
+      "name": "সারিয়্যাতু যায়দ ইবনু হারিসা"
    },
    {
       "article": "uhud.txt",
-      "end": null,
-      "name": "উহুদের যুদ্ধ ",
-      "start": null
+      "date": 625.4,
+      "name": "উহুদের যুদ্ধ "
    },
    {
       "article": "salama.txt",
-      "end": null,
-      "name": "আবু সালামা (রাঃ) এর অভিযান",
-      "start": null
+      "date": 625.6,
+      "name": "আবু সালামা (রাঃ) এর অভিযান"
    },
    {
       "article": "unais.txt",
-      "end": null,
-      "name": "আব্দুল্লাহ বিন উনাইস (রাঃ) এর অভিযান",
-      "start": null
+      "date": 625.65,
+      "name": "আব্দুল্লাহ বিন উনাইস (রাঃ) এর অভিযান"
    },
    {
       "article": "raji.txt",
-      "end": null,
-      "name": "রাযীর ঘটনা ",
-      "start": null
+      "date": 625.7,
+      "name": "রাযীর ঘটনা "
    },
    {
       "article": "mauna.txt",
-      "end": null,
-      "name": "বীরে মাউনার ঘটনা",
-      "start": null
+      "date": 625.75,
+      "name": "বীরে মাউনার ঘটনা"
    },
    {
       "article": "nojir.txt",
-      "end": null,
-      "name": "বনু নযীর এর ঘটনা ",
-      "start": null
+      "date": 625.8,
+      "name": "বনু নযীর এর ঘটনা "
    },
    {
       "article": "najd.txt",
-      "end": null,
-      "name": "নাজদ যুদ্ধ",
-      "start": null
+      "date": 625.85,
+      "name": "নাজদ যুদ্ধ"
    },
    {
       "article": "bodor2.txt",
-      "end": null,
-      "name": "২য় বদর যুদ্ধ",
-      "start": null
+      "date": 626.0,
+      "name": "২য় বদর যুদ্ধ"
    },
    {
       "article": "jandal.txt",
-      "end": null,
-      "name": "গাযওয়ায়ে দুমাতুল জানদাল",
-      "start": null
+      "date": 626.5,
+      "name": "গাযওয়ায়ে দুমাতুল জানদাল"
    },
    {
       "article": "khandak.txt",
-      "end": null,
-      "name": "খন্দকের যুদ্ধ ",
-      "start": null
+      "date": 627.0,
+      "name": "খন্দকের যুদ্ধ "
    },
    {
       "article": "sltr.txt",
-      "end": null,
-      "name": "বনু কুরাইযাহর যুদ্ধ",
-      "start": null
+      "date": 627.1,
+      "name": "বনু কুরাইযাহর যুদ্ধ"
    },
    {
       "article": "huqaik.txt",
-      "end": null,
-      "name": "গোস্তাখে রাসুল (সালাম বিন আবিল হুক্বাইক্ব)",
-      "start": null
+      "date": 627.4,
+      "name": "গোস্তাখে রাসুল (সালাম বিন আবিল হুক্বাইক্ব)"
    },
    {
       "article": "mslmh.txt",
-      "end": null,
-      "name": "মুহাম্মাদ বিন মাসলামাহ’র অভিযান",
-      "start": null
+      "date": 627.6,
+      "name": "মুহাম্মাদ বিন মাসলামাহ’র অভিযান"
    },
    {
       "article": "lahyan.txt",
-      "end": null,
-      "name": "বনু লাহইয়ান যুদ্ধ",
-      "start": null
+      "date": 627.7,
+      "name": "বনু লাহইয়ান যুদ্ধ"
    },
    {
       "article": "sm13.txt",
@@ -529,45 +469,38 @@
    },
    {
       "article": "ghotona.txt",
-      "end": null,
-      "name": "কিছু বিশেষ ঘটনা",
-      "start": null
+      "date": 628.25,
+      "name": "কিছু বিশেষ ঘটনা"
    },
    {
       "article": "hajj.txt",
-      "end": null,
-      "name": "হজ্ব যাত্রা ",
-      "start": null
+      "date": 628.3,
+      "name": "হজ্ব যাত্রা "
    },
    {
       "article": "usmn.txt",
-      "end": null,
-      "name": "উসমান (রাঃ) এর ঘটনা",
-      "start": null
+      "date": 628.35,
+      "name": "উসমান (রাঃ) এর ঘটনা"
    },
    {
       "article": "hudaibiya.txt",
-      "end": null,
-      "name": "হুদাইবিয়ার সন্ধি",
-      "start": null
+      "date": 628.4,
+      "name": "হুদাইবিয়ার সন্ধি"
    },
    {
       "article": "potro.txt",
-      "end": null,
-      "name": "রাজা বাদশাদের পত্র প্রেরণ (৮টি)",
-      "start": null
+      "date": 628.5,
+      "name": "রাজা বাদশাদের পত্র প্রেরণ (৮টি)"
    },
    {
       "article": "gaba.txt",
-      "end": null,
-      "name": "যী কারাদ যুদ্ধ (গাবা যুদ্ধ)",
-      "start": null
+      "date": 628.6,
+      "name": "যী কারাদ যুদ্ধ (গাবা যুদ্ধ)"
    },
    {
       "article": "khaybar.txt",
-      "end": null,
-      "name": "খায়বারের যুদ্ধ",
-      "start": null
+      "date": 628.7,
+      "name": "খায়বারের যুদ্ধ"
    },
    {
       "article": "sm9.txt",
@@ -577,9 +510,8 @@
    },
    {
       "article": "kaza.txt",
-      "end": null,
-      "name": "কাযা উমরা আদায়",
-      "start": null
+      "date": 629.3,
+      "name": "কাযা উমরা আদায়"
    },
    {
       "article": "sm4.txt",
@@ -589,33 +521,28 @@
    },
    {
       "article": "muta.txt",
-      "end": null,
-      "name": "মুতার যুদ্ধ ",
-      "start": null
+      "date": 629.8,
+      "name": "মুতার যুদ্ধ "
    },
    {
       "article": "fateh.txt",
-      "end": null,
-      "name": "মক্কা বিজয় ",
-      "start": null
+      "date": 630.0,
+      "name": "মক্কা বিজয় "
    },
    {
       "article": "hunain.txt",
-      "end": null,
-      "name": "হুনাইন যুদ্ধ",
-      "start": null
+      "date": 630.1,
+      "name": "হুনাইন যুদ্ধ"
    },
    {
       "article": "tawif.txt",
-      "end": null,
-      "name": "ত্বায়িফ যুদ্ধ",
-      "start": null
+      "date": 630.2,
+      "name": "ত্বায়িফ যুদ্ধ"
    },
    {
       "article": "zakat.txt",
-      "end": null,
-      "name": "বিভিন্ন গোত্রে যাকাতের কর্মী প্রেরণ",
-      "start": null
+      "date": 630.3,
+      "name": "বিভিন্ন গোত্রে যাকাতের কর্মী প্রেরণ"
    },
    {
       "article": "sm5.txt",
@@ -625,45 +552,38 @@
    },
    {
       "article": "jhogra.txt",
-      "end": null,
-      "name": "স্ত্রীদের সাথে ঝগড়া",
-      "start": null
+      "date": 630.8,
+      "name": "স্ত্রীদের সাথে ঝগড়া"
    },
    {
       "article": "tabuk.txt",
-      "end": null,
-      "name": "তাবুক যুদ্ধ",
-      "start": null
+      "date": 630.9,
+      "name": "তাবুক যুদ্ধ"
    },
    {
       "article": "bondho.txt",
-      "end": null,
-      "name": "মুশরিকদের হজ্জ বন্ধ",
-      "start": null
+      "date": 631.2,
+      "name": "মুশরিকদের হজ্জ বন্ধ"
    },
    {
       "article": "prosar.txt",
-      "end": null,
-      "name": "ইসলামের ব্যপক প্রসার",
-      "start": null
+      "date": 631.6,
+      "name": "ইসলামের ব্যপক প্রসার"
    },
    {
       "article": "last.txt",
-      "end": null,
-      "name": "বিদায় হজ্জ",
-      "start": null
+      "date": 632.2,
+      "name": "বিদায় হজ্জ"
    },
    {
       "article": "war.txt",
-      "end": null,
-      "name": "শেষ যুদ্ধ কাফেলা প্রস্তুত",
-      "start": null
+      "date": 632.4,
+      "name": "শেষ যুদ্ধ কাফেলা প্রস্তুত"
    },
    {
       "article": "sad.txt",
-      "end": null,
-      "name": "রাসুলুল্লাহ ﷺ এর অন্তিম মুহূর্ত",
-      "start": null
+      "date": 632.6,
+      "name": "রাসুলুল্লাহ ﷺ এর অন্তিম মুহূর্ত"
    },
    {
       "article": null,
